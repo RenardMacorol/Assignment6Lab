@@ -2,4 +2,4 @@
 
 Refactor the Order class using a SOLID Principles
 
-![uml diagram](UML Diagram.png)
+![uml diagram](https://github.com/RenardMacorol/Assignment6Lab/blob/main/UML%20Diagram.png)
